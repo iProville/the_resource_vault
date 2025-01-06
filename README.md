@@ -32,5 +32,5 @@ Acknowledgments
 We acknowledge the contributions of various authors and sources that have inspired and informed the development of these LaTeX codes.
 
 Contact
-If you have any questions, comments, or suggestions, please don't hesitate to contact us midelawal2006@gmail.com
+If you have any questions, comments, or suggestions, please don't hesitate to contact us midelawal2006@gmail.com and
 Iproville247@gamil.com
